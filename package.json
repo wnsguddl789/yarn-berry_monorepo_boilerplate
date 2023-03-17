@@ -1,0 +1,14 @@
+{
+  "name": "monorepo",
+  "packageManager": "yarn@3.5.0",
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "typescript": "^5.0.2"
+  },
+  "scripts": {
+    "shared": "yarn workspace @monorepo/shared",
+    "service": "yarn workspace @monorepo/service"
+  }
+}
