@@ -1,0 +1,41 @@
+{
+  "hash": "c486e5a5",
+  "browserHash": "5d43d84b",
+  "optimized": {
+    "react/jsx-runtime": {
+      "src": "../../../../.yarn/cache/react-npm-18.2.0-1eae08fee2-88e38092da.zip/node_modules/react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "0d5bd380",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../../../.yarn/cache/react-npm-18.2.0-1eae08fee2-88e38092da.zip/node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "2f78d14d",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../../../.yarn/cache/react-npm-18.2.0-1eae08fee2-88e38092da.zip/node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "f532f8fe",
+      "needsInterop": true
+    },
+    "@emotion/styled": {
+      "src": "../../../../.yarn/__virtual__/@emotion-styled-virtual-9b20816660/0/cache/@emotion-styled-npm-11.10.6-b860023bfd-ed0ee4bec3.zip/node_modules/@emotion/styled/dist/emotion-styled.browser.esm.js",
+      "file": "@emotion_styled.js",
+      "fileHash": "d35a2ba4",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../../../.yarn/__virtual__/react-dom-virtual-77b52fcb17/0/cache/react-dom-npm-18.2.0-dd675bca1c-7d323310be.zip/node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "aaec4473",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-PCT4ZYKA": {
+      "file": "chunk-PCT4ZYKA.js"
+    }
+  }
+}

@@ -9,6 +9,7 @@
   },
   "scripts": {
     "shared": "yarn workspace @monorepo/shared",
-    "service": "yarn workspace @monorepo/service"
+    "vite-app": "yarn workspace @monorepo/vite-app",
+    "next-app": "yarn workspace @monorepo/next-app"
   }
 }
